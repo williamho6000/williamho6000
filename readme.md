@@ -8,7 +8,7 @@
 
 - 📫 How to reach me **williamho6000@gmail.com**
 
-- ⚡ Fun fact :- food and anime are the reasons to live.
+- ⚡ Fun fact : nothing.
 
 <br>
 
