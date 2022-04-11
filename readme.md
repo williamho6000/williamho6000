@@ -12,6 +12,9 @@
 
 <br>
 
+  <a href="https://williamho.id" target="blank">My Website</a>
+<br>
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
   <a href="" target="blank"><img align="center"
